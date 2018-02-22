@@ -1,0 +1,2 @@
+# aanekoskenlukio
+Project root
